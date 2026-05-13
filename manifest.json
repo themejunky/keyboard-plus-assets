@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-05-13T05:12:59Z",
+  "generated_at": "2026-05-13T05:14:02Z",
   "default_repo": "themejunky/keyboard-plus-assets",
   "languages": {
     "ro": {
@@ -63,32 +63,32 @@
         }
       }
     },
-    "en": {
+    "pt": {
       "version": 1,
-      "release_tag": "assets-en-v1",
+      "release_tag": "assets-pt-v1",
       "files": {
         "kenlm": {
-          "filename": "en_5gram.binary",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_5gram.binary",
-          "sha256": "b120000f3587004875f528be9cecd4406c5da4ad7f6db07b1a4130048812c4e4",
-          "size_bytes": 546345847
+          "filename": "pt_5gram.binary",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-pt-v1/pt_5gram.binary",
+          "sha256": "b30c04e591b7c3bd9b31b6ad4fad4c9992f039604fe2a06c9346fee6fa2ad9d5",
+          "size_bytes": 533966278
         },
         "bpe_model": {
-          "filename": "en_bpe.model",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_bpe.model",
-          "sha256": "a5d192f269b638b04f27a90d2a2cc48b649e0a0a1a4215eb50c53399b550dfb8",
-          "size_bytes": 503313
+          "filename": "pt_bpe.model",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-pt-v1/pt_bpe.model",
+          "sha256": "80e2ac161477a4ca31556e106e17d8d75a7c9de9006e41e18fb242c3b0db39d4",
+          "size_bytes": 501328
         },
         "bpe_vocab": {
-          "filename": "en_bpe.vocab",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_bpe.vocab",
-          "sha256": "fb47c3be92a02b58d3e0654efac9f5c593d6b5e8e464da4d56ec3e8808c99076",
-          "size_bytes": 235569
+          "filename": "pt_bpe.vocab",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-pt-v1/pt_bpe.vocab",
+          "sha256": "36272d7ba897d83a459f8b053fb0f33bac4b4b67cd02cb1988731c0cdaab81a5",
+          "size_bytes": 233584
         },
         "transformer": {
-          "filename": "en_transformer.ptl",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_transformer.ptl",
-          "sha256": "8968522e68b064349de5691826ef5c6e5361e376f92bae6213baa14273395cfe",
+          "filename": "pt_transformer.ptl",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-pt-v1/pt_transformer.ptl",
+          "sha256": "81ad583e91d14b6c194d4c66b52eb828c56e73d4267b55c5690da931b1fc8189",
           "size_bytes": 14204076
         }
       }

@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-05-13T05:28:38Z",
+  "generated_at": "2026-05-13T05:37:34Z",
   "default_repo": "themejunky/keyboard-plus-assets",
   "languages": {
     "ro": {
@@ -94,30 +94,30 @@
       }
     },
     "en": {
-      "version": 1,
-      "release_tag": "assets-en-v1",
+      "version": 2,
+      "release_tag": "assets-en-v2",
       "files": {
         "kenlm": {
           "filename": "en_5gram.binary",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_5gram.binary",
-          "sha256": "b120000f3587004875f528be9cecd4406c5da4ad7f6db07b1a4130048812c4e4",
-          "size_bytes": 546345847
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v2/en_5gram.binary",
+          "sha256": "6858adcc18d2d738cf582ad1721e5e090cb81cce4ba0bc3f84dc75653a3aa69e",
+          "size_bytes": 433469409
         },
         "bpe_model": {
           "filename": "en_bpe.model",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_bpe.model",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v2/en_bpe.model",
           "sha256": "a5d192f269b638b04f27a90d2a2cc48b649e0a0a1a4215eb50c53399b550dfb8",
           "size_bytes": 503313
         },
         "bpe_vocab": {
           "filename": "en_bpe.vocab",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_bpe.vocab",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v2/en_bpe.vocab",
           "sha256": "fb47c3be92a02b58d3e0654efac9f5c593d6b5e8e464da4d56ec3e8808c99076",
           "size_bytes": 235569
         },
         "transformer": {
           "filename": "en_transformer.ptl",
-          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v1/en_transformer.ptl",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-v2/en_transformer.ptl",
           "sha256": "8968522e68b064349de5691826ef5c6e5361e376f92bae6213baa14273395cfe",
           "size_bytes": 14204076
         }

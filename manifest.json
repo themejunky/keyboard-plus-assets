@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-05-14T09:31:06Z",
+  "generated_at": "2026-05-14T10:22:28Z",
   "default_repo": "themejunky/keyboard-plus-assets",
   "languages": {
     "ro": {
@@ -610,19 +610,19 @@
         "bpe_model": {
           "filename": "gu_bpe.model",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-gu-v1/gu_bpe.model",
-          "sha256": "8ff64fff5839251c7ea387dc78c8900151fa3206e062de9af2397f3a851d0fac",
-          "size_bytes": 533092
+          "sha256": "3e1998303a3de33d5400f4ac7722cea05c26ac52a9098b2c4726e4be8fbefd49",
+          "size_bytes": 623896
         },
         "bpe_vocab": {
           "filename": "gu_bpe.vocab",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-gu-v1/gu_bpe.vocab",
-          "sha256": "80f2832fb7563cccd396e4effefb8df3030a1be65039269e8d9b4ce7d743a230",
-          "size_bytes": 265348
+          "sha256": "a1d8f1d5b5ffd97946ac1cddf8dbb29def3abd653c1e9feabd2935b2ba868d6b",
+          "size_bytes": 356152
         },
         "transformer": {
           "filename": "gu_transformer.ptl",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-gu-v1/gu_transformer.ptl",
-          "sha256": "dfcb98240330432cbc8dd0b36ba662c7784759455b13d96e0a72ff62fc8e9a22",
+          "sha256": "9a845618d70814f49af7ed77c29eea9cf25480512c8719bb8e4db6e17ec14dfe",
           "size_bytes": 14204076
         }
       }

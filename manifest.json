@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-05-14T11:47:45Z",
+  "generated_at": "2026-05-14T12:30:09Z",
   "default_repo": "themejunky/keyboard-plus-assets",
   "languages": {
     "ro": {
@@ -514,19 +514,19 @@
         "bpe_model": {
           "filename": "te_bpe.model",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-te-v1/te_bpe.model",
-          "sha256": "2a469cb9e168464154093bfa0de11fb6dd73bbc20739cce367361871513abbff",
-          "size_bytes": 521122
+          "sha256": "8814fb8d56b54dad9d40d85d96db095af220fd3d7936a01eca75cc020e3a069f",
+          "size_bytes": 642233
         },
         "bpe_vocab": {
           "filename": "te_bpe.vocab",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-te-v1/te_bpe.vocab",
-          "sha256": "b858d5e714fbbc18568646a0602dc1e2a3516c92d4424ed9fa9ffc30b114cb20",
-          "size_bytes": 253378
+          "sha256": "7183f22376580a957f637b403e3f744f187065a5aae555d5434fa0da78abe9c1",
+          "size_bytes": 374489
         },
         "transformer": {
           "filename": "te_transformer.ptl",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-te-v1/te_transformer.ptl",
-          "sha256": "718fcc168cf9f0573ca04e51ddd9df0b32f86a9a3cb40bd5ba0b759354ae177d",
+          "sha256": "b15270b54e7b8fcea003cea32ca660089cda910076788ad049be68b0a5eb3ab2",
           "size_bytes": 14204076
         }
       }

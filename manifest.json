@@ -30,6 +30,12 @@
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ro-v1/ro_transformer.ptl",
           "sha256": "29bea7d6cc720f605f5eaa9062c9e2c05b93c0242d1bd5166a6884759bbc520b",
           "size_bytes": 14203372
+        },
+        "kenlm_small": {
+          "filename": "ro_kenlm_small.binary",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ro-small-v1/ro_kenlm_small.binary",
+          "sha256": "8fbd49c3422da64a928874e77579dc58331d9d76186cea688b0c1d267f4b9e65",
+          "sizeBytes": 5228673
         }
       }
     },

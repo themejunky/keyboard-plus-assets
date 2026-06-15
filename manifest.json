@@ -318,6 +318,12 @@
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-id-v1/id_transformer.ptl",
           "sha256": "de82e56dbfe23424bbb13d5166d924cf061966f05d77c60d3224fbb22a71fa06",
           "size_bytes": 14204076
+        },
+        "kenlm_small": {
+          "filename": "id_kenlm_small.binary",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-id-small-v1/id_kenlm_small.binary",
+          "sha256": "c07f9fa6ad4cf409ca69abe0ce0f375de80c263b1d672bb1cb44e44f3a2de818",
+          "sizeBytes": 3538985
         }
       }
     },

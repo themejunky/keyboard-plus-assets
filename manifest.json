@@ -678,6 +678,12 @@
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ko-v1/ko_transformer.ptl",
           "sha256": "9db4bcc5ef9bc20c20eabede6457a7f37e54275b6381e78e0f7ae15828956790",
           "size_bytes": 14204076
+        },
+        "kenlm_small": {
+          "filename": "ko_kenlm_small.binary",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ko-small-v1/ko_kenlm_small.binary",
+          "sha256": "1d9ecdbe2e611f91f9a36a31d4d98e0b58c1b1b404a54e0a0f13f8f60ce2e5a5",
+          "sizeBytes": 1039074
         }
       }
     },
@@ -756,6 +762,12 @@
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ja-v1/ja_transformer.ptl",
           "sha256": "0c6ac7043479156d77d375ede1ccebf247c610db28ce878f2ed070fb18cc5e7b",
           "size_bytes": 14204076
+        },
+        "kenlm_small": {
+          "filename": "ja_kenlm_small.binary",
+          "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ja-small-v1/ja_kenlm_small.binary",
+          "sha256": "c24afe55a417fad802f644b052d7ed899521e71c283a65f7687cf605334d40c9",
+          "sizeBytes": 1455598
         }
       }
     }

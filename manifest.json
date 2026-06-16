@@ -35,7 +35,7 @@
           "filename": "ro_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ro-small-v1/ro_kenlm_small.binary",
           "sha256": "8fbd49c3422da64a928874e77579dc58331d9d76186cea688b0c1d267f4b9e65",
-          "sizeBytes": 5228673
+          "size_bytes": 5228673
         }
       }
     },
@@ -71,7 +71,7 @@
           "filename": "es_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-es-small-v1/es_kenlm_small.binary",
           "sha256": "650a89297bcef8f9e63ca57df0538c1652d168fc3d7a6d47225d652ad0929d5b",
-          "sizeBytes": 4136095
+          "size_bytes": 4136095
         }
       }
     },
@@ -107,7 +107,7 @@
           "filename": "pt_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-pt-small-v1/pt_kenlm_small.binary",
           "sha256": "8dcadc73cc5fba28ad96bc0b13eaa154e5581d8d361663715440c58c3673f170",
-          "sizeBytes": 4030188
+          "size_bytes": 4030188
         }
       }
     },
@@ -143,7 +143,7 @@
           "filename": "en_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-en-small-v1/en_kenlm_small.binary",
           "sha256": "ef81f1209b3d504362a77dbde130f77359d7097458f530851eb48f36ecfc689c",
-          "sizeBytes": 4127764
+          "size_bytes": 4127764
         }
       }
     },
@@ -173,7 +173,7 @@
           "filename": "fr_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-fr-small-v1/fr_kenlm_small.binary",
           "sha256": "e3abd8f83b888f4d03ea564b0a9e277ff39dd6cac883be31dc0393aec0336f20",
-          "sizeBytes": 4118428
+          "size_bytes": 4118428
         }
       }
     },
@@ -203,7 +203,7 @@
           "filename": "it_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-it-small-v1/it_kenlm_small.binary",
           "sha256": "e583b4f4a48533023794c0e8bec1b8e13549681aa4df4d4558bdb1a459a178e1",
-          "sizeBytes": 4174253
+          "size_bytes": 4174253
         }
       }
     },
@@ -233,7 +233,7 @@
           "filename": "de_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-de-small-v1/de_kenlm_small.binary",
           "sha256": "137dabc16993a81675950c8f00c06dcf243720f0bbe7d981a880c93d376d9c4b",
-          "sizeBytes": 3946646
+          "size_bytes": 3946646
         }
       }
     },
@@ -263,7 +263,7 @@
           "filename": "pl_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-pl-small-v1/pl_kenlm_small.binary",
           "sha256": "898fdbf07a902463fcd7f83c5a5770ce2e36f0a62d88afab1e1f4594d6b0bb8c",
-          "sizeBytes": 4517474
+          "size_bytes": 4517474
         }
       }
     },
@@ -293,7 +293,7 @@
           "filename": "vi_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-vi-small-v1/vi_kenlm_small.binary",
           "sha256": "939dc2546b13b0d4cc2157fb891aa4464b8fdb75248e2c1b50728d242f3fb9d4",
-          "sizeBytes": 2160235
+          "size_bytes": 2160235
         }
       }
     },
@@ -323,7 +323,7 @@
           "filename": "id_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-id-small-v1/id_kenlm_small.binary",
           "sha256": "c07f9fa6ad4cf409ca69abe0ce0f375de80c263b1d672bb1cb44e44f3a2de818",
-          "sizeBytes": 3538985
+          "size_bytes": 3538985
         }
       }
     },
@@ -353,7 +353,7 @@
           "filename": "ru_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ru-small-v1/ru_kenlm_small.binary",
           "sha256": "8be880e782352df5a95f78723bfda963931fbc240cd1b8cc44dd47e4e988bc62",
-          "sizeBytes": 4437512
+          "size_bytes": 4437512
         }
       }
     },
@@ -383,7 +383,7 @@
           "filename": "tr_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-tr-small-v1/tr_kenlm_small.binary",
           "sha256": "e628c997ffa7375e0cb82ffde3974f146ca678eae4735b8ba0f0c929559a2bd8",
-          "sizeBytes": 4166310
+          "size_bytes": 4166310
         }
       }
     },
@@ -653,7 +653,7 @@
           "filename": "ms_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ms-small-v1/ms_kenlm_small.binary",
           "sha256": "4bbbbe9d8905ffb9a30336efafa7a037fa74e15e2e18f75c767b9ab52dc63e27",
-          "sizeBytes": 1427245
+          "size_bytes": 1427245
         }
       }
     },
@@ -683,7 +683,7 @@
           "filename": "ko_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ko-small-v1/ko_kenlm_small.binary",
           "sha256": "1d9ecdbe2e611f91f9a36a31d4d98e0b58c1b1b404a54e0a0f13f8f60ce2e5a5",
-          "sizeBytes": 1039074
+          "size_bytes": 1039074
         }
       }
     },
@@ -737,7 +737,7 @@
           "filename": "cs_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-cs-small-v1/cs_kenlm_small.binary",
           "sha256": "a7d74c18e78e4a27b7d2ce9f2bf1314ff597f2a342433bebc13351cf5e2865b3",
-          "sizeBytes": 4440547
+          "size_bytes": 4440547
         }
       }
     },
@@ -767,7 +767,7 @@
           "filename": "ja_kenlm_small.binary",
           "url": "https://github.com/themejunky/keyboard-plus-assets/releases/download/assets-ja-small-v1/ja_kenlm_small.binary",
           "sha256": "c24afe55a417fad802f644b052d7ed899521e71c283a65f7687cf605334d40c9",
-          "sizeBytes": 1455598
+          "size_bytes": 1455598
         }
       }
     }
